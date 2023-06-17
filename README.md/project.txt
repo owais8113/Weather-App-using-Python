@@ -1,0 +1,5 @@
+This is a weather App that I've made using the Tkinter library of Python which is being used for the user interface then I've used a free api so that we can have the real time data of any place globally.
+Module Required:
+1. tkinter - for user interface
+2. requests- to fetch the api data
+3. datetime- current date & time
